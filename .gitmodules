@@ -1,3 +1,6 @@
 [submodule "aws-sdk-go"]
 	path = deps/aws-sdk-go
 	url = git@github.com:aws/aws-sdk-go.git
+[submodule "out/aws-elixir"]
+	path = out/aws-elixir
+	url = git@github.com:aws-beam/aws-elixir.git
